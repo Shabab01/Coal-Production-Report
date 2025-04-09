@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analyzing coal and lignite production across Indian states. This dashboard offers insights into production volumes, mine types, ownership distribution, and regional trends based on real mining data.
 
-![Dashboard Screenshot](./assets/dashboard_screenshot.png) <!-- Replace with your actual path -->
+![Dashboard Screenshot](C:\Users\lenovo\Pictures\Screenshots\Screenshot 2025-04-09 171424.png) <!-- Replace with your actual path -->
 
 ---
 
@@ -41,18 +41,6 @@ This project provides a deep dive into the coal and lignite production in India 
 
 ---
 
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/coal-production-dashboard.git
-   ```
-2. Open the `.pbix` file in **Power BI Desktop**.
-3. Explore and filter the report as needed.
-
-> 📂 Dataset: Contains the CSV file used in the dashboard.
-
----
 
 ## 📂 Project Structure
 
