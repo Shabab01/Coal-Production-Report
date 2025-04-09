@@ -2,7 +2,6 @@
 
 An interactive Power BI dashboard analyzing coal and lignite production across Indian states. This dashboard offers insights into production volumes, mine types, ownership distribution, and regional trends based on real mining data.
 
-![Dashboard Screenshot]("C:\Users\lenovo\Pictures\Screenshots\Screenshot 2025-04-09 171424.png") <!-- Replace with your actual path -->
 
 ---
 
